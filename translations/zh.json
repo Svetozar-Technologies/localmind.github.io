@@ -58,10 +58,10 @@
     "label": "为什么选择LocalMind",
     "title": "LocalMind vs <span class='gradient-text'>云服务</span>",
     "subtitle": "看看LocalMind与Otter.ai、Rev和Descript等流行云转录服务的对比。",
-    "roi_title": "💰 Calculate Your Annual Savings",
-    "roi_cloud": "Average cloud service: <strong>$30/month × 12 months = $360/year</strong>",
-    "roi_localmind": "LocalMind: <strong>$0/year</strong>",
-    "roi_savings": "You save: <span class=\"gradient-text\">$360+ every year</span>"
+    "roi_title": "💰 计算您的年度节省",
+    "roi_cloud": "平均云服务: <strong>$30/月 × 12个月 = $360/年</strong>",
+    "roi_localmind": "LocalMind: <strong>$0/年</strong>",
+    "roi_savings": "您节省: <span class=\"gradient-text\">$360+每年</span>"
   },
   "testimonials": {
     "label": "全球用户",
@@ -150,60 +150,60 @@
   },
   "faq_items": {
     "q1": {
-      "question": "How can this be completely free?",
-      "answer": "LocalMind runs entirely on your device, so we have zero cloud infrastructure costs. No servers to maintain, no bandwidth to pay for, no storage fees. We believe AI should be accessible to everyone, so we've built a truly free solution that doesn't rely on the \"freemium\" model. Our code is open source - if you don't trust us, you can audit and compile it yourself."
+      "question": "为什么完全免费？",
+      "answer": "LocalMind完全在您的设备上运行，因此我们没有云基础设施成本。无需维护服务器，无需支付带宽，无需存储费用。我们相信人工智能应该让每个人都能访问，因此我们构建了一个真正免费的解决方案，不依赖于\"免费增值\"模式。我们的代码是开源的 - 如果您不信任我们，可以自己审核和编译它。"
     },
     "q2": {
-      "question": "Is it really as accurate as cloud services?",
-      "answer": "Yes! LocalMind uses OpenAI's Whisper model - the same technology behind many commercial transcription services. We achieve 95%+ accuracy across 99 languages. Plus, our Chain-of-Thought quality scoring provides 20-30% better analysis accuracy than standard approaches. The only difference is your data stays on your device."
+      "question": "它真的和云服务一样准确吗？",
+      "answer": "是的！LocalMind使用OpenAI的Whisper模型 - 许多商业转录服务背后的相同技术。我们在99种语言中实现95%+的准确率。此外，我们的思维链质量评分提供比标准方法高20-30%的分析准确度。唯一的区别是您的数据保留在您的设备上。"
     },
     "q3": {
-      "question": "Will this work without an internet connection?",
-      "answer": "Absolutely! After the initial model download (one-time, happens on first run), LocalMind works 100% offline. Process audio files on airplanes, in remote locations, or anywhere without internet. Your workflow is never interrupted by connectivity issues."
+      "question": "没有互联网连接也能工作吗？",
+      "answer": "当然可以！在初始模型下载（一次性，在首次运行时发生）之后，LocalMind 100%离线工作。在飞机上、偏远地区或任何没有互联网的地方处理音频文件。您的工作流程永远不会因连接问题而中断。"
     },
     "q4": {
-      "question": "Can I use this commercially?",
-      "answer": "Yes! LocalMind is licensed under MIT - one of the most permissive open source licenses. Use it for personal projects, client work, commercial products, or anything else. No attribution required (though always appreciated). The only restriction: you can't hold us liable if something goes wrong."
+      "question": "我可以将其用于商业用途吗？",
+      "answer": "可以！LocalMind采用MIT许可证 - 最宽松的开源许可证之一。用于个人项目、客户工作、商业产品或其他任何用途。无需署名（尽管总是受欢迎）。唯一的限制：如果出现问题，您不能追究我们的责任。"
     },
     "q5": {
-      "question": "What about subtitle/SRT export for videos?",
-      "answer": "SRT/subtitle export is coming soon! We're actively developing this feature based on user feedback. Sign up for updates to be notified when we release multi-lingual subtitle export, including timecode synchronization and formatting options."
+      "question": "视频字幕/SRT导出功能呢？",
+      "answer": "SRT/字幕导出即将推出！我们正在根据用户反馈积极开发此功能。注册更新，以便在我们发布多语言字幕导出（包括时间码同步和格式选项）时收到通知。"
     },
     "q6": {
-      "question": "What are the system requirements?",
-      "answer": "Minimum: 8GB RAM, 10GB free storage, macOS 10.15+ | Recommended: 16GB RAM, Apple Silicon or NVIDIA GPU for faster processing | Coming Soon: Windows 10+ and Linux (Ubuntu 22.04+)"
+      "question": "系统要求是什么？",
+      "answer": "最低配置：8GB RAM，10GB可用存储空间，macOS 10.15+ | 推荐配置：16GB RAM，Apple Silicon或NVIDIA GPU以实现更快的处理速度 | 即将推出：Windows 10+和Linux（Ubuntu 22.04+）"
     }
   },
   "use_cases_cards": {
     "journalists": {
-      "title": "Journalists & Podcasters",
-      "problem": "<strong>Pain Point:</strong> Cloud services expose sensitive source conversations to corporate servers and potential legal requests.",
-      "solution": "<strong>Solution:</strong> Protect sources with 100% offline transcription. No server logs. No data breaches. Complete confidentiality."
+      "title": "记者和播客主",
+      "problem": "<strong>痛点：</strong> 云服务将敏感来源对话暴露给企业服务器和潜在的法律请求。",
+      "solution": "<strong>解决方案：</strong> 通过100%离线转录保护来源。无服务器日志。无数据泄露。完全保密。"
     },
     "call_centers": {
-      "title": "Call Centers",
-      "problem": "<strong>Pain Point:</strong> Subscription services cost $400+/month for call quality auditing and agent training.",
-      "solution": "<strong>Solution:</strong> Audit 100% of calls with AI-powered quality scoring. Zero recurring costs. Unlimited usage."
+      "title": "呼叫中心",
+      "problem": "<strong>痛点：</strong> 订阅服务每月花费$400+用于通话质量审核和座席培训。",
+      "solution": "<strong>解决方案：</strong> 使用AI驱动的质量评分审核100%的通话。零经常性成本。无限使用。"
     },
     "researchers": {
-      "title": "Researchers",
-      "problem": "<strong>Pain Point:</strong> HIPAA and GDPR compliance prohibits uploading patient/participant interviews to cloud services.",
-      "solution": "<strong>Solution:</strong> Process interviews locally. Data never leaves your secure systems. Automatic compliance."
+      "title": "研究人员",
+      "problem": "<strong>痛点：</strong> HIPAA和GDPR合规性禁止将患者/参与者访谈上传到云服务。",
+      "solution": "<strong>解决方案：</strong> 在本地处理访谈。数据永远不会离开您的安全系统。自动合规。"
     },
     "legal": {
-      "title": "Legal Professionals",
-      "problem": "<strong>Pain Point:</strong> Attorney-client privilege at risk when transcribing sensitive depositions through third parties.",
-      "solution": "<strong>Solution:</strong> Maintain privilege with on-device processing. No third-party access. Court-ready security."
+      "title": "法律专业人士",
+      "problem": "<strong>痛点：</strong> 通过第三方转录敏感证词时，律师-客户特权面临风险。",
+      "solution": "<strong>解决方案：</strong> 通过设备上处理维护特权。无第三方访问。法庭级安全。"
     },
     "smb": {
-      "title": "Small Businesses",
-      "problem": "<strong>Pain Point:</strong> Transcription subscriptions cost $20-50/month ($240-600/year) - prohibitive for bootstrapped teams.",
-      "solution": "<strong>Solution:</strong> Professional AI for $0. Save $360+/year. Invest savings in growth, not software rent."
+      "title": "小企业",
+      "problem": "<strong>痛点：</strong> 转录订阅费用为每月$20-50（每年$240-600） - 对于预算有限的团队来说过于昂贵。",
+      "solution": "<strong>解决方案：</strong> 专业AI仅需$0。每年节省$360+。将节省的资金投资于增长，而不是软件租赁。"
     },
     "privacy": {
-      "title": "Privacy-Conscious Users",
-      "problem": "<strong>Pain Point:</strong> \"Trust us\" isn't good enough. Black-box AI services can't be verified or audited.",
-      "solution": "<strong>Solution:</strong> Audit every line of code yourself. Open-source transparency. No blind trust required."
+      "title": "注重隐私的用户",
+      "problem": "<strong>痛点：</strong> \"相信我们\"是不够的。黑盒AI服务无法验证或审核。",
+      "solution": "<strong>解决方案：</strong> 自己审核每一行代码。开源透明度。无需盲目信任。"
     }
   },
   "manifesto": {

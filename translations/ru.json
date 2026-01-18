@@ -58,10 +58,10 @@
     "label": "Почему LocalMind",
     "title": "LocalMind против <span class='gradient-text'>Облачных Сервисов</span>",
     "subtitle": "Посмотрите, как LocalMind сравнивается с популярными облачными сервисами транскрипции, такими как Otter.ai, Rev и Descript.",
-    "roi_title": "💰 Calculate Your Annual Savings",
-    "roi_cloud": "Average cloud service: <strong>$30/month × 12 months = $360/year</strong>",
-    "roi_localmind": "LocalMind: <strong>$0/year</strong>",
-    "roi_savings": "You save: <span class=\"gradient-text\">$360+ every year</span>"
+    "roi_title": "💰 Рассчитайте Вашу Годовую Экономию",
+    "roi_cloud": "Средний облачный сервис: <strong>$30/месяц × 12 месяцев = $360/год</strong>",
+    "roi_localmind": "LocalMind: <strong>$0/год</strong>",
+    "roi_savings": "Вы экономите: <span class=\"gradient-text\">$360+ каждый год</span>"
   },
   "testimonials": {
     "label": "Глобальные Пользователи",
@@ -150,60 +150,60 @@
   },
   "faq_items": {
     "q1": {
-      "question": "How can this be completely free?",
-      "answer": "LocalMind runs entirely on your device, so we have zero cloud infrastructure costs. No servers to maintain, no bandwidth to pay for, no storage fees. We believe AI should be accessible to everyone, so we've built a truly free solution that doesn't rely on the \"freemium\" model. Our code is open source - if you don't trust us, you can audit and compile it yourself."
+      "question": "Как это может быть совершенно бесплатно?",
+      "answer": "LocalMind полностью работает на вашем устройстве, поэтому у нас нулевые затраты на облачную инфраструктуру. Никаких серверов для обслуживания, никакой пропускной способности для оплаты, никаких расходов на хранение. Мы верим, что ИИ должен быть доступен каждому, поэтому мы создали действительно бесплатное решение, которое не зависит от модели \"freemium\". Наш код открыт - если вы нам не доверяете, можете проверить и скомпилировать его самостоятельно."
     },
     "q2": {
-      "question": "Is it really as accurate as cloud services?",
-      "answer": "Yes! LocalMind uses OpenAI's Whisper model - the same technology behind many commercial transcription services. We achieve 95%+ accuracy across 99 languages. Plus, our Chain-of-Thought quality scoring provides 20-30% better analysis accuracy than standard approaches. The only difference is your data stays on your device."
+      "question": "Действительно ли он так же точен, как облачные сервисы?",
+      "answer": "Да! LocalMind использует модель Whisper от OpenAI - ту же технологию, что стоит за многими коммерческими сервисами транскрипции. Мы достигаем точности 95%+ на 99 языках. Кроме того, наша оценка качества Chain-of-Thought обеспечивает на 20-30% лучшую точность анализа, чем стандартные подходы. Единственное отличие - ваши данные остаются на вашем устройстве."
     },
     "q3": {
-      "question": "Will this work without an internet connection?",
-      "answer": "Absolutely! After the initial model download (one-time, happens on first run), LocalMind works 100% offline. Process audio files on airplanes, in remote locations, or anywhere without internet. Your workflow is never interrupted by connectivity issues."
+      "question": "Будет ли это работать без подключения к интернету?",
+      "answer": "Абсолютно! После первоначальной загрузки модели (один раз, происходит при первом запуске), LocalMind работает на 100% офлайн. Обрабатывайте аудиофайлы в самолетах, в удаленных местах или где угодно без интернета. Ваш рабочий процесс никогда не прерывается из-за проблем с подключением."
     },
     "q4": {
-      "question": "Can I use this commercially?",
-      "answer": "Yes! LocalMind is licensed under MIT - one of the most permissive open source licenses. Use it for personal projects, client work, commercial products, or anything else. No attribution required (though always appreciated). The only restriction: you can't hold us liable if something goes wrong."
+      "question": "Могу ли я использовать это в коммерческих целях?",
+      "answer": "Да! LocalMind лицензирован под MIT - одной из самых разрешительных лицензий с открытым исходным кодом. Используйте для личных проектов, работы с клиентами, коммерческих продуктов или чего угодно еще. Атрибуция не требуется (хотя всегда ценится). Единственное ограничение: вы не можете привлечь нас к ответственности, если что-то пойдет не так."
     },
     "q5": {
-      "question": "What about subtitle/SRT export for videos?",
-      "answer": "SRT/subtitle export is coming soon! We're actively developing this feature based on user feedback. Sign up for updates to be notified when we release multi-lingual subtitle export, including timecode synchronization and formatting options."
+      "question": "Что насчет экспорта субтитров/SRT для видео?",
+      "answer": "Экспорт SRT/субтитров скоро появится! Мы активно разрабатываем эту функцию на основе отзывов пользователей. Подпишитесь на обновления, чтобы получить уведомление, когда мы выпустим многоязычный экспорт субтитров, включая синхронизацию временных кодов и параметры форматирования."
     },
     "q6": {
-      "question": "What are the system requirements?",
-      "answer": "Minimum: 8GB RAM, 10GB free storage, macOS 10.15+ | Recommended: 16GB RAM, Apple Silicon or NVIDIA GPU for faster processing | Coming Soon: Windows 10+ and Linux (Ubuntu 22.04+)"
+      "question": "Каковы системные требования?",
+      "answer": "Минимум: 8ГБ ОЗУ, 10ГБ свободного места, macOS 10.15+ | Рекомендовано: 16ГБ ОЗУ, Apple Silicon или NVIDIA GPU для более быстрой обработки | Скоро: Windows 10+ и Linux (Ubuntu 22.04+)"
     }
   },
   "use_cases_cards": {
     "journalists": {
-      "title": "Journalists & Podcasters",
-      "problem": "<strong>Pain Point:</strong> Cloud services expose sensitive source conversations to corporate servers and potential legal requests.",
-      "solution": "<strong>Solution:</strong> Protect sources with 100% offline transcription. No server logs. No data breaches. Complete confidentiality."
+      "title": "Журналисты и Подкастеры",
+      "problem": "<strong>Проблема:</strong> Облачные сервисы раскрывают конфиденциальные разговоры источников корпоративным серверам и потенциальным юридическим запросам.",
+      "solution": "<strong>Решение:</strong> Защитите источники 100% офлайн транскрипцией. Никаких серверных логов. Никаких утечек данных. Полная конфиденциальность."
     },
     "call_centers": {
-      "title": "Call Centers",
-      "problem": "<strong>Pain Point:</strong> Subscription services cost $400+/month for call quality auditing and agent training.",
-      "solution": "<strong>Solution:</strong> Audit 100% of calls with AI-powered quality scoring. Zero recurring costs. Unlimited usage."
+      "title": "Колл-центры",
+      "problem": "<strong>Проблема:</strong> Сервисы по подписке стоят $400+/месяц для аудита качества звонков и обучения операторов.",
+      "solution": "<strong>Решение:</strong> Проверяйте 100% звонков с оценкой качества на базе ИИ. Нулевые периодические затраты. Неограниченное использование."
     },
     "researchers": {
-      "title": "Researchers",
-      "problem": "<strong>Pain Point:</strong> HIPAA and GDPR compliance prohibits uploading patient/participant interviews to cloud services.",
-      "solution": "<strong>Solution:</strong> Process interviews locally. Data never leaves your secure systems. Automatic compliance."
+      "title": "Исследователи",
+      "problem": "<strong>Проблема:</strong> Соответствие HIPAA и GDPR запрещает загрузку интервью пациентов/участников в облачные сервисы.",
+      "solution": "<strong>Решение:</strong> Обрабатывайте интервью локально. Данные никогда не покидают ваши защищенные системы. Автоматическое соответствие."
     },
     "legal": {
-      "title": "Legal Professionals",
-      "problem": "<strong>Pain Point:</strong> Attorney-client privilege at risk when transcribing sensitive depositions through third parties.",
-      "solution": "<strong>Solution:</strong> Maintain privilege with on-device processing. No third-party access. Court-ready security."
+      "title": "Юридические специалисты",
+      "problem": "<strong>Проблема:</strong> Привилегия адвокат-клиент под угрозой при транскрибировании конфиденциальных показаний через третьи стороны.",
+      "solution": "<strong>Решение:</strong> Сохраняйте привилегию с обработкой на устройстве. Никакого доступа третьих лиц. Безопасность, готовая для суда."
     },
     "smb": {
-      "title": "Small Businesses",
-      "problem": "<strong>Pain Point:</strong> Transcription subscriptions cost $20-50/month ($240-600/year) - prohibitive for bootstrapped teams.",
-      "solution": "<strong>Solution:</strong> Professional AI for $0. Save $360+/year. Invest savings in growth, not software rent."
+      "title": "Малый Бизнес",
+      "problem": "<strong>Проблема:</strong> Подписки на транскрипцию стоят $20-50/месяц ($240-600/год) - непозволительно для команд с ограниченным бюджетом.",
+      "solution": "<strong>Решение:</strong> Профессиональный ИИ за $0. Экономьте $360+/год. Инвестируйте сбережения в рост, а не в аренду программного обеспечения."
     },
     "privacy": {
-      "title": "Privacy-Conscious Users",
-      "problem": "<strong>Pain Point:</strong> \"Trust us\" isn't good enough. Black-box AI services can't be verified or audited.",
-      "solution": "<strong>Solution:</strong> Audit every line of code yourself. Open-source transparency. No blind trust required."
+      "title": "Заботящиеся о Конфиденциальности Пользователи",
+      "problem": "<strong>Проблема:</strong> \"Доверьтесь нам\" недостаточно. Сервисы ИИ с закрытым исходным кодом невозможно проверить или аудировать.",
+      "solution": "<strong>Решение:</strong> Проверьте каждую строку кода сами. Прозрачность открытого исходного кода. Слепое доверие не требуется."
     }
   },
   "manifesto": {
