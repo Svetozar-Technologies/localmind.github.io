@@ -272,13 +272,13 @@
     "row8_localmind": "✅ MIT许可证"
   },
   "product_extended": {
-    "lang_english": "English",
-    "lang_hindi": "Hindi",
-    "lang_spanish": "Spanish",
-    "lang_arabic": "Arabic",
-    "lang_russian": "Russian",
-    "lang_italian": "Italian",
-    "lang_many_more": "+ Many More"
+    "lang_english": "英语",
+    "lang_hindi": "印地语",
+    "lang_spanish": "西班牙语",
+    "lang_arabic": "阿拉伯语",
+    "lang_russian": "俄语",
+    "lang_italian": "意大利语",
+    "lang_many_more": "+ 更多语言"
   },
   "join": {
     "heading": "加入运动",

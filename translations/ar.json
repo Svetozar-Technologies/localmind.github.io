@@ -273,13 +273,13 @@
     "row8_localmind": "✅ ترخيص MIT"
   },
   "product_extended": {
-    "lang_english": "English",
-    "lang_hindi": "Hindi",
-    "lang_spanish": "Spanish",
-    "lang_arabic": "Arabic",
-    "lang_russian": "Russian",
-    "lang_italian": "Italian",
-    "lang_many_more": "+ Many More"
+    "lang_english": "الإنجليزية",
+    "lang_hindi": "الهندية",
+    "lang_spanish": "الإسبانية",
+    "lang_arabic": "العربية",
+    "lang_russian": "الروسية",
+    "lang_italian": "الإيطالية",
+    "lang_many_more": "+ المزيد"
   },
   "join": {
     "heading": "انضم إلى الحركة",
